@@ -27,7 +27,7 @@ CorkboardHandler::CorkboardHandler(QObject *parent) :
 
 void CorkboardHandler::loadInitialFile()
 {
-    load(QUrl("qrc:/DemoFiles/InitialMutt.mutt"));
+    load(QUrl("qrc:/DemoFiles/InitialFile.mutt"));
 }
 
 Corkboard *CorkboardHandler::getCorkboard() const

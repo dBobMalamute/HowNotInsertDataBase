@@ -30,5 +30,6 @@
         <file>Images/Bat.png</file>
         <file>QML/DataBaseBeforeMinimized.qml</file>
         <file>Icons/MikeInput.png</file>
+        <file>DemoFiles/InitialFile.mutt</file>
     </qresource>
 </RCC>
