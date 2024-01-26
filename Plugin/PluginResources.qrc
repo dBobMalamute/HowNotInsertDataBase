@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>QML/DataBaseBefore.qml</file>
+        <file>QML/InsertionBasicControls.qml</file>
+        <file>QML/InsertionSmart.qml</file>
+        <file>QML/InsertionStartAtBeginning.qml</file>
+        <file>QML/LocationMarker.qml</file>
+        <file>QML/PersonInputDisplay.qml</file>
+        <file>QML/PersonRectangle.qml</file>
+        <file>QML/StickFigure.qml</file>
+        <file>QML/TealRect.qml</file>
+        <file>Icons/ChadInput.png</file>
+        <file>Icons/DataBaseAfter.png</file>
+        <file>Icons/DataBaseBefore.png</file>
+        <file>Icons/InsertionBasic.png</file>
+        <file>Icons/InsertionReadAll.png</file>
+        <file>Icons/InsertionSmart.png</file>
+        <file>Icons/InsertionStartAtBeginning.png</file>
+        <file>Icons/MidgetInput.png</file>
+        <file>Icons/PersonInput.png</file>
+        <file>Images/No.png</file>
+        <file>Images/OrangeBot.png</file>
+        <file>Images/PinkBot.png</file>
+        <file>Images/Road.png</file>
+        <file>Images/TealBot.png</file>
+        <file>Images/Unknown.png</file>
+        <file>Images/Yes.png</file>
+        <file>QML/DataBaseAfter.qml</file>
+        <file>SoundEffects/PunchEffect.wav</file>
+        <file>Images/Bat.png</file>
+        <file>QML/DataBaseBeforeMinimized.qml</file>
+        <file>Icons/MikeInput.png</file>
+    </qresource>
+</RCC>
